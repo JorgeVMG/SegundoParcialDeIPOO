@@ -1,0 +1,5 @@
+GITHUB
+https://github.com/JorgeVMG/SegundoParcialDeIPOO.git
+Alumno 
+Jorge Víctor Manuel González
+FAI-4460
